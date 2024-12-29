@@ -1,5 +1,6 @@
-April 12, 2020
+###### 12 April 2020
 # On Administration Markets
+
 Governments, in the course of their normal operations, build up skilled bureaucracies to solve the problems they face. If they rented their bureaucratic capacity out to other states, I believe a wide variety of positive outcomes would result.
 
 For example, one can imagine a state- or provincial- government with a bureau for issuing identity documents signing a contract to take over those responsibilities for other states, or a country deciding to rent out certain aspects of its legal infrastructure to its neighbors.[^While my examples focus mostly on an American context, I think this is a beneficial model both sub-nationally and internationally.] Using this "G2G (Government-to-Government) Sales" model provides an efficient and tested service to one state, with little administrative overhead, and a new revenue stream to the other, offsetting tax revenue and boosting growth.
