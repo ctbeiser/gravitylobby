@@ -26,10 +26,12 @@ A previous attempt at a similar goal is found in the "[policy markets](https://m
 You can also contrast the "administration market" approach I'm advocating with the sort of faux-privatizations championed in the West during the 80s to mid-00s, in which an inefficient unitary bureaucracy is replaced by an inefficient, unitary, unaccountable, privately-owned bureaucracy. I don't mean to say that privatization is never an appropriate solution; only that it's unlikely to succeed in certain cases, such as:
 
 Where competition or benchmarking is impossible either across regions or time, making the vendor no better than a unitary state bureaucracy 
+
 - because upfront capital outlays and customization result in lock-in, preventing the vendor from being swapped out in the case of underperformance,
 - or because the problem is a natural monopoly where real competition is impossible.
 
 Or where it's intractable for efficiency reasons, as
+
 - the procurement processes impose a rigid specification that massively decreases efficiency (as in [Waterfall](https://en.wikipedia.org/wiki/Waterfall_model))
 - or the challenges of defining the problem clearly enough to outsource it need even more capacity than doing it in-house (ie, [Coasean Hell](http://www.harrowell.org.uk/blog/2018/01/31/in-the-eternal-inferno-fiends-torment-ronald-coase-with-the-fate-of-his-ideas/))
 
