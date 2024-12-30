@@ -26,3 +26,6 @@
 .vscode/
 *.sublime-workspace
 *.sublime-project 
+
+# python virtual environment
+.venv/
