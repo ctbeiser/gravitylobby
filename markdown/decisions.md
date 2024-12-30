@@ -1,5 +1,6 @@
 ###### 29 May 2017
 # On Time-Free Theories of Decision Making
+<!--blurb: A brief note on "rationality"-->
 
 "Rationality" is often espoused as a method of understanding what is true, and as a method of making decisions on how to act. As the former, it has (in many respects) been very successful. On the latter front, as a program for an agent, it is often somewhat less successful. In areas where decisions can be made with substantial delay, there is a finite problem-space, and the ability to systematically evaluate options, rationality works fine.
 

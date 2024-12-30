@@ -1,5 +1,6 @@
 ###### 3 May 2018
-# Becoming the Trashcan of Ideology
+# Becoming the Trashcan
+<!--blurb: An introduction to some ideas related to Henry George-->
 
 I have an ideology to sell you. It’s likely one you haven’t heard of before, which is usually a bad sign—the calling card of reactionaries, apologists for authoritarian regimes, vendors of strangely detached and incoherent portraits of social relations, and every manner of person who has wedded themselves to a grab-bag of orthodoxies in order to produce a personal exceptionalism narrative. I don’t have a rosy view of ideologies, but I believe in the 21st century, we’ve come upon a shortage of ones that can be more-or-less mechanistically followed by useful idiots to produce a better world. Therefore, I have selflessly become the trash can of ideology; I have allowed it to ferment inside me. It is now time for the feast.
 

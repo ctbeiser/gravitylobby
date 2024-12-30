@@ -1,5 +1,6 @@
 ###### 12 April 2020
 # On Administration Markets
+<!--blurb: It would be good if government agencies would offer their services to other governments.-->
 
 Governments, in the course of their normal operations, build up skilled bureaucracies to solve the problems they face. If they rented their bureaucratic capacity out to other states, I believe a wide variety of positive outcomes would result.
 

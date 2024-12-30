@@ -1,5 +1,6 @@
 ###### 21 October 2018
 # The Gordian Knot in Housing Politics
+<!--blurb: Untangling deep sources of conflict in discourse around housing-->
 
 A huge amount of space on the internet is dedicated to discussion of train memes, urban planning and housing policy. It’s not surprising that these are constant topics of vicious conflict—that’s true of all American politics. Unlike the American political mainstream though, the camps involved congregate in many of the [same online spaces](https://www.nytimes.com/2018/08/10/style/numtot-urbanism-memes.html). There are two major camps: YIMBYs—a set of generally pro-market activists with links to the technology industry, and what I’ll call “housing leftists”—a loose coalition focused on tackling housing issues from a leftist angle—many of whom are affiliated with the Democratic Socialists.
 

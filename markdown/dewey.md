@@ -1,5 +1,6 @@
 ###### 13 February 2017
 # Refactoring Aesthetics
+<!--blurb: Summarizing certain aspects of Dewey's "Art as Experience"-->
 
 John Dewey, the 20th Century educational philosopher, wrote a book called ‘Art as Experience,’ which has been largely forgotten by history. It happens to contain a more-or-less complete philosophy of aesthetics, the comprehensiveness and usefulness of which has never been matched. Dewey’s writing can be somewhat dense to newcomers,[^Art as Experience is, in my opinion, uniquely difficult to summarize—the Stanford Encyclopedia of Philosophy only manages to summarize at great length, with a section for each of Dewey’s chapters. Wikipedia takes the same approach, but doesn't even manage that; the last four chapters have headings, but no body.] so I’ve tried to write a primer on a few of the most important ideas in it. I can’t promise the full ecstasy of the source, but I hope it can offer some of the revelatory qualities that Art as Experience has offered me.
 
