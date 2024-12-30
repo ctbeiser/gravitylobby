@@ -51,6 +51,10 @@ if __name__ == "__main__":
 <head>
     <meta charset="UTF-8">
     <title>{title}</title>
+    <meta name="description" content="{blurb}">
+    <meta property="og:title" content="{title}">
+    <meta property="og:description" content="{blurb}">
+    <meta property="og:type" content="article">
     <link href="reset.css" rel="stylesheet" type="text/css">
     <link href="//cloud.webtype.com/css/16fc21a3-84ad-48a4-b2ab-80991b0393a0.css" rel="stylesheet" type="text/css" />
 </head>
@@ -165,7 +169,8 @@ if __name__ == "__main__":
             return self.html_template.format(
                 title=title or input_path.stem,
                 date=date or '',
-                content=html_content
+                content=html_content,
+                blurb=blurb or ''
             ).strip()
 
         def parse_date(self, date_str: str) -> datetime:
